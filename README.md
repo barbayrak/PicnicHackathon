@@ -1,6 +1,6 @@
-# PicnicHackathon
+# Tensorflow/Keras - Picnic Image Classification Hackathon https://picnic.devpost.com
+
 ![alt text](https://res.cloudinary.com/devpost/image/fetch/s--3uci4Nf2--/c_limit,f_auto,fl_lossy,q_auto:eco,w_900/https://siliconcanals.nl/wp-content/uploads/2015/08/picnic-thumb.jpg)
-Tensorflow - Picnic Image Classification Hackathon https://picnic.devpost.com
 
 # Hackathon Dataset
 You can get hackathon dataset from here https://drive.google.com/file/d/1XSoOCPpndRCUIzz2LyRH0y01q35J7mgC/view?usp=sharing
